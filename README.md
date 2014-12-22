@@ -32,9 +32,12 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-A New ballad intituled, I have fresh cheese and creame to a new tune.1610Approx. 4 KB of XML-encoded
+
+1. A new Ballad intituled, I haue fresh Cheese and Creame.
+To a new Tune.
+
 #####Back#####
-A New ballad intituled, I have fresh cheese and creame to a new tune.1610Approx. 4 KB of XML-encoded
+Imprinted at London by W. W. 16
 **Types of content**
 
   * There are 89 **verse** lines!
